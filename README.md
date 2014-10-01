@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first script
+this was the first script
